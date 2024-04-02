@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Build a Simple React To-Do Application",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "yaseen shaikh",
+  "license": "ISC"
 }
